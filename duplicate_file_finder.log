@@ -1,0 +1,429 @@
+2026-07-21 23:29:31,770 | INFO | logging_service | ============================================================
+2026-07-21 23:29:31,770 | INFO | logging_service | Application Started
+2026-07-21 23:47:44,038 | INFO | logging_service | ============================================================
+2026-07-21 23:47:44,038 | INFO | logging_service | Application Started
+2026-07-21 23:48:00,421 | INFO | callbacks | Starting scan.
+2026-07-21 23:48:00,422 | INFO | scan_engine | ============================================================
+2026-07-21 23:48:00,422 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:48:00,423 | INFO | scan_engine | Validation completed.
+2026-07-21 23:48:00,423 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:48:00,453 | INFO | file_service | Files discovered: 30
+2026-07-21 23:48:00,453 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:48:01,446 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:48:01,447 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:48:01,447 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:48:41,092 | INFO | callbacks | Starting scan.
+2026-07-21 23:48:41,094 | INFO | scan_engine | ============================================================
+2026-07-21 23:48:41,094 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:48:41,094 | INFO | scan_engine | Validation completed.
+2026-07-21 23:48:41,094 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:48:41,114 | INFO | file_service | Files discovered: 30
+2026-07-21 23:48:41,114 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:48:41,114 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:48:41,114 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:48:41,114 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:49:07,218 | INFO | callbacks | Starting scan.
+2026-07-21 23:49:07,219 | INFO | scan_engine | ============================================================
+2026-07-21 23:49:07,219 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:49:07,219 | INFO | scan_engine | Validation completed.
+2026-07-21 23:49:07,219 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-21 23:49:07,425 | INFO | file_service | Files discovered: 153
+2026-07-21 23:49:07,425 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-21 23:49:07,425 | INFO | scan_engine | Duplicate groups found: 23
+2026-07-21 23:49:07,425 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:49:07,425 | INFO | callbacks | Duplicate groups found: 23
+2026-07-21 23:49:09,499 | INFO | callbacks | Starting scan.
+2026-07-21 23:49:09,501 | INFO | scan_engine | ============================================================
+2026-07-21 23:49:09,501 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:49:09,501 | INFO | scan_engine | Validation completed.
+2026-07-21 23:49:09,501 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-21 23:49:09,596 | INFO | file_service | Files discovered: 153
+2026-07-21 23:49:09,596 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-21 23:49:09,596 | INFO | scan_engine | Duplicate groups found: 23
+2026-07-21 23:49:09,596 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:49:09,596 | INFO | callbacks | Duplicate groups found: 23
+2026-07-21 23:49:23,724 | INFO | logging_service | ============================================================
+2026-07-21 23:49:23,724 | INFO | logging_service | Application Started
+2026-07-21 23:49:35,347 | INFO | callbacks | Starting scan.
+2026-07-21 23:49:35,348 | INFO | scan_engine | ============================================================
+2026-07-21 23:49:35,348 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:49:35,349 | INFO | scan_engine | Validation completed.
+2026-07-21 23:49:35,349 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-21 23:49:35,399 | INFO | file_service | Files discovered: 153
+2026-07-21 23:49:35,399 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-21 23:49:35,399 | INFO | scan_engine | Duplicate groups found: 23
+2026-07-21 23:49:35,399 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:49:35,403 | INFO | callbacks | Duplicate groups found: 23
+2026-07-21 23:50:28,288 | INFO | callbacks | Starting scan.
+2026-07-21 23:50:28,290 | INFO | scan_engine | ============================================================
+2026-07-21 23:50:28,290 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:50:28,291 | INFO | scan_engine | Validation completed.
+2026-07-21 23:50:28,292 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-21 23:50:28,393 | INFO | file_service | Files discovered: 153
+2026-07-21 23:50:28,393 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-21 23:50:29,874 | INFO | scan_engine | Duplicate groups found: 22
+2026-07-21 23:50:29,874 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:50:29,874 | INFO | callbacks | Duplicate groups found: 22
+2026-07-21 23:50:35,574 | INFO | callbacks | Starting scan.
+2026-07-21 23:50:35,577 | INFO | scan_engine | ============================================================
+2026-07-21 23:50:35,578 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:50:35,578 | INFO | scan_engine | Validation completed.
+2026-07-21 23:50:35,578 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-21 23:50:35,693 | INFO | file_service | Files discovered: 153
+2026-07-21 23:50:35,693 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-21 23:50:35,819 | INFO | scan_engine | Duplicate groups found: 22
+2026-07-21 23:50:35,819 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:50:35,825 | INFO | callbacks | Duplicate groups found: 22
+2026-07-21 23:51:24,760 | INFO | logging_service | ============================================================
+2026-07-21 23:51:24,761 | INFO | logging_service | Application Started
+2026-07-21 23:51:38,955 | INFO | callbacks | Starting scan.
+2026-07-21 23:51:38,956 | INFO | scan_engine | ============================================================
+2026-07-21 23:51:38,956 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:51:38,957 | INFO | scan_engine | Validation completed.
+2026-07-21 23:51:38,957 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:51:38,976 | INFO | file_service | Files discovered: 30
+2026-07-21 23:51:38,976 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:51:39,019 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:51:39,019 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:51:39,020 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:51:50,688 | INFO | callbacks | Starting scan.
+2026-07-21 23:51:50,690 | INFO | scan_engine | ============================================================
+2026-07-21 23:51:50,690 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:51:50,691 | INFO | scan_engine | Validation completed.
+2026-07-21 23:51:50,691 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:51:50,716 | INFO | file_service | Files discovered: 30
+2026-07-21 23:51:50,716 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:51:50,716 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:51:50,717 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:51:50,719 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:51:51,472 | INFO | callbacks | Starting scan.
+2026-07-21 23:51:51,473 | INFO | scan_engine | ============================================================
+2026-07-21 23:51:51,474 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:51:51,474 | INFO | scan_engine | Validation completed.
+2026-07-21 23:51:51,475 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:51:51,496 | INFO | file_service | Files discovered: 30
+2026-07-21 23:51:51,496 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:51:51,497 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:51:51,497 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:51:51,499 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:51:51,703 | INFO | callbacks | Starting scan.
+2026-07-21 23:51:51,705 | INFO | scan_engine | ============================================================
+2026-07-21 23:51:51,705 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:51:51,706 | INFO | scan_engine | Validation completed.
+2026-07-21 23:51:51,707 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:51:51,727 | INFO | file_service | Files discovered: 30
+2026-07-21 23:51:51,727 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:51:51,728 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:51:51,728 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:51:51,729 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:51:52,066 | INFO | callbacks | Starting scan.
+2026-07-21 23:51:52,068 | INFO | scan_engine | ============================================================
+2026-07-21 23:51:52,068 | INFO | scan_engine | Starting duplicate scan.
+2026-07-21 23:51:52,069 | INFO | scan_engine | Validation completed.
+2026-07-21 23:51:52,069 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-21 23:51:52,092 | INFO | file_service | Files discovered: 30
+2026-07-21 23:51:52,092 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-21 23:51:52,092 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-21 23:51:52,092 | INFO | scan_engine | Duplicate scan completed.
+2026-07-21 23:51:52,094 | INFO | callbacks | Duplicate groups found: 4
+2026-07-21 23:54:32,688 | INFO | logging_service | ============================================================
+2026-07-21 23:54:32,700 | INFO | logging_service | Application Started
+2026-07-22 00:05:28,874 | INFO | logging_service | ============================================================
+2026-07-22 00:05:28,874 | INFO | logging_service | Application Started
+2026-07-22 00:06:15,487 | INFO | logging_service | ============================================================
+2026-07-22 00:06:15,487 | INFO | logging_service | Application Started
+2026-07-22 00:06:33,638 | INFO | logging_service | ============================================================
+2026-07-22 00:06:33,640 | INFO | logging_service | Application Started
+2026-07-22 00:12:54,589 | INFO | logging_service | ============================================================
+2026-07-22 00:12:54,595 | INFO | logging_service | Application Started
+2026-07-22 00:13:16,858 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:16,860 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:16,860 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:16,861 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:16,861 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:16,913 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:16,914 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:16,914 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:16,914 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:16,917 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:24,510 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:24,511 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:24,512 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:24,512 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:24,513 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:24,533 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:24,533 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:24,610 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:24,611 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:24,612 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:25,457 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:25,458 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:25,458 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:25,459 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:25,459 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:25,480 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:25,480 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:25,537 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:25,538 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:25,539 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:26,344 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:26,345 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:26,345 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:26,346 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:26,346 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:26,367 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:26,367 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:26,423 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:26,423 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:26,425 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:26,560 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:26,561 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:26,562 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:26,562 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:26,563 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:26,583 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:26,583 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:26,638 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:26,638 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:26,639 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:26,793 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:26,794 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:26,794 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:26,795 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:26,795 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:26,816 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:26,816 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:26,872 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:26,872 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:26,874 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:13:30,081 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:13:30,083 | INFO | scan_engine | ============================================================
+2026-07-22 00:13:30,083 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:13:30,084 | INFO | scan_engine | Validation completed.
+2026-07-22 00:13:30,084 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:13:30,106 | INFO | file_service | Files discovered: 30
+2026-07-22 00:13:30,106 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:13:30,169 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:13:30,169 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:13:30,171 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:14:54,139 | INFO | logging_service | ============================================================
+2026-07-22 00:14:54,374 | INFO | logging_service | Application Started
+2026-07-22 00:15:04,926 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:15:04,928 | INFO | scan_engine | ============================================================
+2026-07-22 00:15:04,928 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:15:04,929 | INFO | scan_engine | Validation completed.
+2026-07-22 00:15:04,929 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:15:04,967 | INFO | file_service | Files discovered: 30
+2026-07-22 00:15:04,967 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:15:05,043 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:15:05,043 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:15:05,045 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:24:09,144 | INFO | logging_service | ============================================================
+2026-07-22 00:24:09,146 | INFO | logging_service | Application Started
+2026-07-22 00:24:25,559 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:24:25,561 | INFO | scan_engine | ============================================================
+2026-07-22 00:24:25,561 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:24:25,562 | INFO | scan_engine | Validation completed.
+2026-07-22 00:24:25,562 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:24:25,599 | INFO | file_service | Files discovered: 30
+2026-07-22 00:24:25,600 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:24:25,672 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:24:25,672 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:24:25,675 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:24:38,385 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:24:38,387 | INFO | scan_engine | ============================================================
+2026-07-22 00:24:38,387 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:24:38,387 | INFO | scan_engine | Validation completed.
+2026-07-22 00:24:38,388 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:24:38,408 | INFO | file_service | Files discovered: 30
+2026-07-22 00:24:38,408 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:24:38,408 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:24:38,408 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:24:38,410 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:24:39,425 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:24:39,426 | INFO | scan_engine | ============================================================
+2026-07-22 00:24:39,426 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:24:39,427 | INFO | scan_engine | Validation completed.
+2026-07-22 00:24:39,427 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:24:39,448 | INFO | file_service | Files discovered: 30
+2026-07-22 00:24:39,448 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:24:39,448 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:24:39,448 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:24:39,450 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:24:39,650 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:24:39,651 | INFO | scan_engine | ============================================================
+2026-07-22 00:24:39,651 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:24:39,652 | INFO | scan_engine | Validation completed.
+2026-07-22 00:24:39,652 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:24:39,673 | INFO | file_service | Files discovered: 30
+2026-07-22 00:24:39,673 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:24:39,673 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:24:39,673 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:24:39,675 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:24:39,868 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:24:39,870 | INFO | scan_engine | ============================================================
+2026-07-22 00:24:39,870 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:24:39,871 | INFO | scan_engine | Validation completed.
+2026-07-22 00:24:39,871 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:24:39,891 | INFO | file_service | Files discovered: 30
+2026-07-22 00:24:39,891 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:24:39,892 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:24:39,892 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:24:39,893 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:33:45,190 | INFO | logging_service | ============================================================
+2026-07-22 00:33:45,192 | INFO | logging_service | Application Started
+2026-07-22 00:33:58,739 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:33:58,743 | INFO | scan_engine | ============================================================
+2026-07-22 00:33:58,743 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:33:58,744 | INFO | scan_engine | Validation completed.
+2026-07-22 00:33:58,744 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:33:58,782 | INFO | file_service | Files discovered: 30
+2026-07-22 00:33:58,783 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:33:58,863 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:33:58,864 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:33:58,866 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:34:10,390 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:34:10,392 | INFO | scan_engine | ============================================================
+2026-07-22 00:34:10,392 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:34:10,393 | INFO | scan_engine | Validation completed.
+2026-07-22 00:34:10,393 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:34:10,414 | INFO | file_service | Files discovered: 30
+2026-07-22 00:34:10,415 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:34:10,415 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:34:10,415 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:34:10,417 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:34:11,201 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:34:11,202 | INFO | scan_engine | ============================================================
+2026-07-22 00:34:11,202 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:34:11,203 | INFO | scan_engine | Validation completed.
+2026-07-22 00:34:11,203 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:34:11,226 | INFO | file_service | Files discovered: 30
+2026-07-22 00:34:11,227 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:34:11,227 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:34:11,227 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:34:11,229 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:34:11,427 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:34:11,429 | INFO | scan_engine | ============================================================
+2026-07-22 00:34:11,429 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:34:11,429 | INFO | scan_engine | Validation completed.
+2026-07-22 00:34:11,430 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:34:11,455 | INFO | file_service | Files discovered: 30
+2026-07-22 00:34:11,455 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:34:11,546 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:34:11,546 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:34:11,548 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:34:11,636 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:34:11,637 | INFO | scan_engine | ============================================================
+2026-07-22 00:34:11,637 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:34:11,638 | INFO | scan_engine | Validation completed.
+2026-07-22 00:34:11,638 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:34:11,659 | INFO | file_service | Files discovered: 30
+2026-07-22 00:34:11,659 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:34:11,659 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:34:11,660 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:34:11,661 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:54:20,100 | INFO | logging_service | ============================================================
+2026-07-22 00:54:20,101 | INFO | logging_service | Application Started
+2026-07-22 00:54:32,662 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:54:32,663 | INFO | scan_engine | ============================================================
+2026-07-22 00:54:32,663 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:54:32,664 | INFO | scan_engine | Validation completed.
+2026-07-22 00:54:32,664 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:54:32,724 | INFO | file_service | Files discovered: 30
+2026-07-22 00:54:32,724 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:54:32,763 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:54:32,764 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:54:32,765 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:55:08,685 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:55:08,688 | INFO | scan_engine | ============================================================
+2026-07-22 00:55:08,688 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:55:08,689 | INFO | scan_engine | Validation completed.
+2026-07-22 00:55:08,689 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:55:08,712 | INFO | file_service | Files discovered: 30
+2026-07-22 00:55:08,712 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:55:08,712 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:55:08,712 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:55:08,714 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:55:19,948 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:55:19,950 | INFO | scan_engine | ============================================================
+2026-07-22 00:55:19,950 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:55:19,951 | INFO | scan_engine | Validation completed.
+2026-07-22 00:55:19,952 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:55:19,970 | INFO | file_service | Files discovered: 30
+2026-07-22 00:55:19,970 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:55:19,970 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:55:19,970 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:55:19,972 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:55:59,552 | INFO | logging_service | ============================================================
+2026-07-22 00:55:59,552 | INFO | logging_service | Application Started
+2026-07-22 00:56:35,012 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:56:35,014 | INFO | scan_engine | ============================================================
+2026-07-22 00:56:35,015 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:56:35,015 | INFO | scan_engine | Validation completed.
+2026-07-22 00:56:35,016 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:56:35,023 | INFO | file_service | Files discovered: 30
+2026-07-22 00:56:35,023 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:56:35,023 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:56:35,023 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:56:35,024 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:57:16,076 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:57:16,077 | INFO | scan_engine | ============================================================
+2026-07-22 00:57:16,077 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:57:16,078 | INFO | scan_engine | Validation completed.
+2026-07-22 00:57:16,078 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-22 00:57:16,198 | INFO | file_service | Files discovered: 153
+2026-07-22 00:57:16,198 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-22 00:57:16,198 | INFO | scan_engine | Duplicate groups found: 23
+2026-07-22 00:57:16,198 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:57:16,200 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:57:31,487 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:57:31,488 | INFO | scan_engine | ============================================================
+2026-07-22 00:57:31,488 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:57:31,489 | INFO | scan_engine | Validation completed.
+2026-07-22 00:57:31,489 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-22 00:57:31,517 | INFO | file_service | Files discovered: 153
+2026-07-22 00:57:31,517 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-22 00:57:31,614 | INFO | scan_engine | Duplicate groups found: 22
+2026-07-22 00:57:31,615 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:57:31,616 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:57:42,811 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:57:42,812 | INFO | scan_engine | ============================================================
+2026-07-22 00:57:42,813 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:57:42,813 | INFO | scan_engine | Validation completed.
+2026-07-22 00:57:42,814 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-22 00:57:42,839 | INFO | file_service | Files discovered: 153
+2026-07-22 00:57:42,839 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-22 00:57:42,839 | INFO | scan_engine | Duplicate groups found: 23
+2026-07-22 00:57:42,839 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:57:42,841 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:57:48,956 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:57:48,957 | INFO | scan_engine | ============================================================
+2026-07-22 00:57:48,957 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:57:48,958 | INFO | scan_engine | Validation completed.
+2026-07-22 00:57:48,958 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop
+2026-07-22 00:57:48,982 | INFO | file_service | Files discovered: 153
+2026-07-22 00:57:48,982 | INFO | scan_engine | Discovered 153 file(s).
+2026-07-22 00:57:49,019 | INFO | scan_engine | Duplicate groups found: 22
+2026-07-22 00:57:49,019 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:57:49,021 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 00:57:59,683 | INFO | callbacks | Results cleared.
+2026-07-22 00:59:47,037 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 00:59:47,047 | INFO | scan_engine | ============================================================
+2026-07-22 00:59:47,048 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 00:59:47,049 | INFO | scan_engine | Validation completed.
+2026-07-22 00:59:47,049 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 00:59:47,059 | INFO | file_service | Files discovered: 30
+2026-07-22 00:59:47,062 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 00:59:47,094 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 00:59:47,094 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 00:59:47,095 | INFO | callbacks | Duplicate scan completed.
+2026-07-22 01:00:23,435 | INFO | callbacks | Starting duplicate scan.
+2026-07-22 01:00:23,436 | INFO | scan_engine | ============================================================
+2026-07-22 01:00:23,436 | INFO | scan_engine | Starting duplicate scan.
+2026-07-22 01:00:23,436 | INFO | scan_engine | Validation completed.
+2026-07-22 01:00:23,436 | INFO | file_service | Scanning folder: C:\Users\91960\Desktop\Assignments
+2026-07-22 01:00:23,440 | INFO | file_service | Files discovered: 30
+2026-07-22 01:00:23,440 | INFO | scan_engine | Discovered 30 file(s).
+2026-07-22 01:00:23,441 | INFO | scan_engine | Duplicate groups found: 4
+2026-07-22 01:00:23,441 | INFO | scan_engine | Duplicate scan completed.
+2026-07-22 01:00:23,441 | INFO | callbacks | Duplicate scan completed.
